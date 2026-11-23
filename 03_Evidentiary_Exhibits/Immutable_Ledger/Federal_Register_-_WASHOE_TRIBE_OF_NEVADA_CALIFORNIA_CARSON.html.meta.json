@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WASHOE+TRIBE+OF+NEVADA+CALIFORNIA+CARSON",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WASHOE+TRIBE+OF+NEVADA+CALIFORNIA+CARSON",
+  "title": "Federal Register - WASHOE TRIBE OF NEVADA CALIFORNIA CARSON",
+  "fetched_at": "2026-11-23T18:21:09.594322Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329503,
+  "sha256": "56f596f5715a5902068c40d4ad6e35812876fc26d032a1f01a4b2c1668aff20d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
